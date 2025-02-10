@@ -1,0 +1,1 @@
+Here's a basic example of file encryption using Python with the cryptography library. This example demonstrates how to encrypt and decrypt a text file using symmetric encryption (AES).
